@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuyBP
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Selenium
 - 📫 How to reach me: benpaziguy@gmail.com
 
 <!---
