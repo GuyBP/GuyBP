@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuyBP
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently a 2nd year computer science student at The Open University of Israel
 - 📫 How to reach me: benpaziguy@gmail.com
 
 <!---
